@@ -1,0 +1,5 @@
+ps axu
+/home/anisbet/Dev/EPL/monstat/test.sh 3
+grep buh LICENSE
+# Don't do this
+
