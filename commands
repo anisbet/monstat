@@ -1,5 +1,7 @@
-
-/home/anisbet/Dev/EPL/monstat/stest.sh 5
+# Monstat now supports multipule script starting and monitoring.
+# ls -l
+/home/anisbet/Dev/EPL/monstat/test.sh 5
+/home/anisbet/Dev/EPL/monstat/test2.sh 15
 
 # Don't do this
 

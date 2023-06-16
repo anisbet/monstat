@@ -1,0 +1,5 @@
+# Monstat now supports multipule script starting and monitoring.
+ls -a
+
+# Don't do this
+schmecho "hello world"
